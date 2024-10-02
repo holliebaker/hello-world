@@ -1,2 +1,5 @@
-# hello-world
-Hello world repo, for codelab 1
+# Hello World
+
+Hello, my name is Hollie.
+I have a guide dog colled Oreo.
+
